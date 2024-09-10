@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nguyen Vu Luan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Nguyen Vu Luan</h1>
+
+<!--** Ngon ngu
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VuLuan1103&layout=compact)-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuLuan1103&show_icons=true&theme=dracula)
+
+
+
 
 <!--
 **VuLuan1103/VuLuan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
